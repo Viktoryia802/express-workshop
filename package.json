@@ -1,0 +1,25 @@
+{
+  "name": "workshopname",
+  "version": "1.0.0",
+  "description": "my project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viktoryia802/html-css-git-exercises.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Viktoryia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Viktoryia802/html-css-git-exercises/issues"
+  },
+  "homepage": "https://github.com/Viktoryia802/html-css-git-exercises#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
